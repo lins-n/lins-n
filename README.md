@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">I'm passionate about design and code. From mobile apps to websites, logos to branding, and everything in between.I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lins-n&label=Profile%20views&color=0e75b6&style=flat" alt="lins-n" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lins-n" alt="lins-n" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_lins_n" target="blank"><img src="https://img.shields.io/twitter/follow/_lins_n?logo=twitter&style=for-the-badge" alt="_lins_n" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 - 🔭 I’m currently working on **Portfolio Website**
