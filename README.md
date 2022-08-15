@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
 <h3 align="center">I'm passionate about design and code. From mobile apps to websites, logos to branding, and everything in between.I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.</h3>
 
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://github.com/lins-n/lins-n/blob/main/coded%20copy.jpg">
 
 - 🔭 I’m currently working on **Portfolio Website**
 
